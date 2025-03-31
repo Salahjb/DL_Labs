@@ -38,10 +38,10 @@ Below is a summary of the steps completed and the key learnings from this lab.
 ### Steps Completed:
 1. **Data Preprocessing:**
    - Cleaned the dataset by handling missing values, encoding categorical variables, and removing irrelevant features.
-   - Standardized/Normalized the data using `StandardScaler` or `MinMaxScaler`.
+   - Standardized/Normalized the data using `StandardScaler` 
 
 2. **Exploratory Data Analysis (EDA):**
-   - Visualized class distributions, feature correlations, and outliers.
+   - Visualized class distributions, feature correlations (Correlation matrix), and outliers.
    - Identified imbalanced classes and applied data augmentation techniques (e.g., SMOTE) to balance the dataset.
 
 3. **Deep Neural Network Architecture:**
@@ -59,7 +59,7 @@ Below is a summary of the steps completed and the key learnings from this lab.
    - Calculated metrics like **accuracy**, **precision**, **recall**, **F1-score**, and **confusion matrix** for both training and test datasets.
 
 7. **Regularization Techniques:**
-   - Applied regularization techniques like **Dropout**, **L2 regularization**, and **Data Augmentation**.
+   - Applied regularization techniques like  **L2 regularization**, and **Data Augmentation**.
    - Compared the results with the initial model to observe improvements.
 
 ---
@@ -89,7 +89,7 @@ Below is a summary of the steps completed and the key learnings from this lab.
 ## Tools Used:
 - **Programming Language:** Python
 - **Libraries:** PyTorch, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Platforms:** Google Colab, Kaggle
+- **Platforms:** Jupyter lab, Kaggle
 - **Version Control:** GitHub
 
 ---
